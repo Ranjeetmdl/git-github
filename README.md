@@ -1,2 +1,3 @@
 # git-github
 Hi am new to the gitHub....
+And I want to learn about Git
